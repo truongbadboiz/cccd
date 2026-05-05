@@ -1,0 +1,19 @@
+# Core build tools
+setuptools>=65.0.0,<82
+wheel>=0.38.0
+
+# ── Object Detection — YOLOv8
+ultralytics>=8.0.0
+
+# ── OCR — Tesseract
+pytesseract>=0.3.10
+
+# ── Image processing
+opencv-python>=4.5.0
+numpy>=1.21.0,<2.0.0
+
+# ── API
+fastapi>=0.95.0
+uvicorn[standard]>=0.21.0
+python-multipart>=0.0.6
+pydantic>=1.10.0,<2.0.0

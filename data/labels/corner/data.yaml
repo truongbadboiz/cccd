@@ -1,0 +1,5 @@
+path: D:\DoAn\thu_vien\cccd_python\data\labels\corner
+train: images/train
+val:   images/val
+nc: 3
+names: ['top_left', 'bottom_left', 'bottom_right']

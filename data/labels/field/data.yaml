@@ -1,0 +1,5 @@
+path: D:\DoAn\thu_vien\cccd_python\data\labels\field
+train: images/train
+val:   images/val
+nc: 8
+names: ['id', 'name', 'birth', 'sex', 'nationality', 'home', 'address', 'expiry']
